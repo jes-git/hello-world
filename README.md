@@ -1,2 +1,2 @@
 # hello-world
-This is supposed to be my first repository in guthub.
+This is supposed to be my first repository in github.
